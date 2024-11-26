@@ -21,3 +21,8 @@ This project provides an image captioning web application powered by the BLIP mo
   ```bash
   git https://github.com/mdzubayerhossain/Bangla-Image-Captioning-Web-App.git
   cd Bangla-Image-Captioning-Web-App
+
+  pip install -r requirements.txt
+  python app.py
+
+![image](https://github.com/user-attachments/assets/61b1cc49-cd55-4afc-bd87-d51e541f3eda)
