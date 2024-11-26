@@ -15,7 +15,8 @@ This project provides an image captioning web application powered by the BLIP mo
 - **Translation**: Google Translate API
 - **Hosting**: Local or deployable on cloud services like Heroku or AWS
 
-## Installation Instructions:
+![image](https://github.com/user-attachments/assets/0a531291-093b-43ed-a6a3-40875129b83b)
+
 
 ### Clone the repository:
   ```bash
@@ -25,4 +26,3 @@ This project provides an image captioning web application powered by the BLIP mo
   pip install -r requirements.txt
   python app.py
 
-![image](https://github.com/user-attachments/assets/61b1cc49-cd55-4afc-bd87-d51e541f3eda)
